@@ -10,7 +10,7 @@
 1. [mood-ring-interactive](https://github.com/martybutts/mood-ring-interactive)
 
 
-### Day 2: 4 January, Tuesday
+### Day 2: 4 January, Wednesday
 
 **Today's Progress**: Further work on adding an input field and submit button to mood-ring-interactive.
 
@@ -18,3 +18,10 @@
 
 **Link(s) to work**
 1. [mood-ring-interactive](https://github.com/martybutts/mood-ring-interactive)
+
+
+### Day 2: 4 January, Thursday
+
+**Today's Progress**: Followed a tutorial to learn how to use WebFlow, a tool that takes a drag and drop approach to coding, kind of like PhotoShop.
+
+**Thoughts** Makes it possible for designers to work on front-end tasks, although you still need a good understanding of html and css to be able to use it well. Worth exploring further.
