@@ -39,3 +39,10 @@
 **Today's Progress**: Played around with CSS animations on the home page of my friends website.
 
 **Thoughts** Nice and straightforward, and is helping consolidate what I have previously learnt about animations and transitions.
+
+
+### Day 6: 8 January, Sunday
+
+**Today's Progress**: Added hover interactions to home page elements on my friend's poetry site. A lot of fun!
+
+**Thoughts** Good css animations are difficult to achieve and take a lot of time playing around through trial and error. Good styling is definitely an art I'd like to master.
