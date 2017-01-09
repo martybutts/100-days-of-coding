@@ -46,3 +46,10 @@
 **Today's Progress**: Added hover interactions to home page elements on my friend's poetry site. A lot of fun!
 
 **Thoughts** Good css animations are difficult to achieve and take a lot of time playing around through trial and error. Good styling is definitely an art I'd like to master.
+
+
+### Day 7: 9 January, Sunday
+
+**Today's Progress**: Not a productive one. Spent a lot of time in Photoshop trying to convert pdfs into png images.
+
+**Thoughts** I'd like to be good at everything, but sadly I'm not!
