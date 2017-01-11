@@ -48,8 +48,15 @@
 **Thoughts** Good css animations are difficult to achieve and take a lot of time playing around through trial and error. Good styling is definitely an art I'd like to master.
 
 
-### Day 7: 9 January, Sunday
+### Day 7: 9 January, Monday
 
 **Today's Progress**: Not a productive one. Spent a lot of time in Photoshop trying to convert pdfs into png images.
 
 **Thoughts** I'd like to be good at everything, but sadly I'm not!
+
+
+### Day 8: 10 January, Tuesday
+
+**Today's Progress**: Created twitter-tweets repo and researched a bit more about using twitter apis. Also followed a tutorial on making pure css images.
+
+**Thoughts** Still a bit to learn about using twitter apis. Would be good to be fluent with these. Making css images is more straightforward than I had thought.
