@@ -60,3 +60,16 @@
 **Today's Progress**: Created twitter-tweets repo and researched a bit more about using twitter apis. Also followed a tutorial on making pure css images.
 
 **Thoughts** Still a bit to learn about using twitter apis. Would be good to be fluent with these. Making css images is more straightforward than I had thought.
+
+### Day 11: 13 January, Friday
+
+**Today's Progress**: Have been playing around with css images, watching tutorials and practicing.
+
+**Thoughts** Practice makes perfect. Good to get more familiar and confident with straightforward styling.
+
+
+### Day 14: 17 January, Monday
+
+**Today's Progress**: Had a go at the new react-native todo app tutorial.
+
+**Thoughts** Looked really interesting and I was keen to try something new, but I stalled with issues in Xcode which became too difficult to solve. Learnt a bit about mobile development in the process.
