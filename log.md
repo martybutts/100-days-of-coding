@@ -73,3 +73,17 @@
 **Today's Progress**: Had a go at the new react-native todo app tutorial.
 
 **Thoughts** Looked really interesting and I was keen to try something new, but I stalled with issues in Xcode which became too difficult to solve. Learnt a bit about mobile development in the process.
+
+
+### Day 15: 18 January, Tuesday
+
+**Today's Progress**: Made some cool animations using p5.js.
+
+**Thoughts** p5.js is a library that does some of the background work for creating JavaScript animations. Also comes with it's own editor which you download.
+
+
+### Day 16: 19 January, Wednesday
+
+**Today's Progress**: More p5.js animations.
+
+**Thoughts** p5.js is a library that does some of the background work for creating JavaScript animations. Also comes with it's own editor which you download.
