@@ -87,3 +87,10 @@
 **Today's Progress**: More p5.js animations.
 
 **Thoughts** p5.js is a library that does some of the background work for creating JavaScript animations. Also comes with it's own editor which you download.
+
+
+### Day 17: 21 January, Saturday
+
+**Today's Progress**: Followed the Dash tutorial, Project 1: Build a Personal Website.
+
+**Thoughts** margin: 0 auto; is a handy piece of code for centering content. It sets left and right margins to auto, top and bottom to zero.
