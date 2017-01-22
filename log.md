@@ -94,3 +94,16 @@
 **Today's Progress**: Followed the Dash tutorial, Project 1: Build a Personal Website.
 
 **Thoughts** margin: 0 auto; is a handy piece of code for centering content. It sets left and right margins to auto, top and bottom to zero.
+
+
+### Day 18: 22 January, Sunday
+
+**Today's Progress**: Followed the Dash tutorial, Project 2: Build a Responsive Blog Theme.
+
+**Thoughts**
+@media (max-width: 500px) {
+      body {
+        background: red;
+      }
+    }
+The media query sets up the condition for the nested css.
