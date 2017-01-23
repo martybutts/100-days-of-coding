@@ -107,3 +107,10 @@
       }
     }
 The media query sets up the condition for the nested css.
+
+
+### Day 19: 23 January, Monday
+
+**Today's Progress**: Worked on single page poetry website. Added sections and a slider and links from navbar.
+
+**Thoughts** Became more familiar with single page website structure and navigation.
