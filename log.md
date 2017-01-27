@@ -121,3 +121,10 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: More work on the poetry website. Learnt a lot about sliders today.
 
 **Thoughts** Useful to use containers to group elements, and then style the container in terms of layout, particularly using flexbox.
+
+
+### Day 22: 27 January, Friday
+
+**Today's Progress**: Built an app that grants wishes, using express-generator.
+
+**Thoughts** Got my head around handlebars again after not using it for a while. Layout.hbs presents the view, which is filled by index.hbs.
