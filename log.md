@@ -128,3 +128,9 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: Built an app that grants wishes, using express-generator.
 
 **Thoughts** Got my head around handlebars again after not using it for a while. Layout.hbs presents the view, which is filled by index.hbs.
+
+### Day 24: 29 January, Sunday
+
+**Today's Progress**: More work on the app that grants wishes, setting up routes and layout using flexbox.
+
+**Thoughts** Sometimes input type submit is better to use than a button.
