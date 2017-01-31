@@ -134,3 +134,10 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: More work on the app that grants wishes, setting up routes and layout using flexbox.
 
 **Thoughts** Sometimes input type submit is better to use than a button.
+
+
+### Day 25: 30 January, Monday
+
+**Today's Progress**: Revisited a tutorial called Meowtown to learn more about Express routing.
+
+**Thoughts** I need to redo things several times before they sink in.
