@@ -141,3 +141,10 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: Revisited a tutorial called Meowtown to learn more about Express routing.
 
 **Thoughts** I need to redo things several times before they sink in.
+
+
+### Day 26: 1 February, Wednesday
+
+**Today's Progress**: Rinse, repeat. Revisited Meowtown one more time to really consolidate Express routing.
+
+**Thoughts** I need to redo things several times before they sink in, so I did.
