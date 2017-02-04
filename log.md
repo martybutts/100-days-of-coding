@@ -162,3 +162,22 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: Completed Wes Bos Javascript 30 #2 - Javascript Clock.
 
 **Thoughts** cubic-bezier in chrome dev tools useful to play around with to achieve transition effects.
+
+### Day 30: 5 February, Sunday
+
+**Today's Progress**: Completed Wes Bos Javascript 30 #3 - Playing with CSS Variables and JS.
+
+**Thoughts** define variables at the root of the document like this:
+:root {
+  --base: #9CCC65;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+then call them as css properties:
+img {
+  height: 300px;
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
