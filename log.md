@@ -155,3 +155,10 @@ The media query sets up the condition for the nested css.
 **Today's Progress**: Completed Wes Bos Javascript 30 #1 - Javascript Drum Kit.
 
 **Thoughts** I need to redo things several times before they sink in, so I did.
+
+
+### Day 29: 4 February, Saturday
+
+**Today's Progress**: Completed Wes Bos Javascript 30 #2 - Javascript Clock.
+
+**Thoughts** cubic-bezier in chrome dev tools useful to play around with to achieve transition effects.
